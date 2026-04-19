@@ -1,3 +1,12 @@
+Intro
+------------
+It is a warm sunny day. Hope you had a nice breakfast!
+
+Well, to those of you who don't know me, first of all how dare you and second of all I'm Vasamth Janakiraman. 
+I'm a Senior Cloud Engineer here at goeasy. 
+
+And  today I'm here to talk about the evolution of cloud infrastructure building going from Clickops to DevOps.
+
 What if your infrastructure was built in hours, not weeks?
 --------------------------------------------
 
