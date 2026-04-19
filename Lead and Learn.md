@@ -45,16 +45,13 @@ IaC in Plain English
 
 “Infrastructure as Code means we define our infrastructure—servers, networks, databases—using code instead of manual steps.”
 
-“Think of it like a recipe. Instead of saying ‘add some salt,’ we specify exact measurements. Anyone can follow it and get the same result.”
-
 “This code lives in version control, just like application code. So we can track changes, review them, and roll back if needed.”
 
-
+"And your resources gets provisioned automatically"
 
 
 Why It Matters (Especially for Us)
 -----------------------------------------
-“In a credit lending environment, we deal with sensitive data, regulatory requirements, and high expectations for accelerated product launches.”
 
 “IaC gives us consistency—no more ‘it works on one environment but not another.’”
 
@@ -116,15 +113,19 @@ Where Azure DevOps Fits In
 Why Leadership Should Care
 ----------------------------------------------
 
+
+
 “From a business perspective, it means faster launches”
 
 “It means fewer manual errors.”
 
 “It means innovation without delay.”
 
+"And It is Open-Source" Who doesn't like free stuff
 
 
-Where we leveraged this technology
+
+Where we leveraged this technology At goeasy
 ---------------------------------------------
 Easy home replatforming
 Easyapply
