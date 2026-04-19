@@ -1,4 +1,5 @@
 What if your infrastructure was built in hours, not weeks?
+--------------------------------------------
 
 Let me open with a quick scenario.
 
@@ -22,7 +23,7 @@ They test changes safely in staging.
 They review updates through pull requests.
 And when everything is approved, they deploy production-ready infrastructure through a single automated pipeline.
 
-Boom, the infrastructure is ready in hours.
+Boom, the infrastructure is ready in hours
 
 Need to launch the same product for LendCare?
 Change a few variables and redeploy in minutes.
@@ -38,7 +39,9 @@ That is the promise of Infrastructure as Code.
 
 
 
+
 IaC in Plain English
+-----------------------------------
 
 “Infrastructure as Code means we define our infrastructure—servers, networks, databases—using code instead of manual steps.”
 
@@ -48,7 +51,9 @@ IaC in Plain English
 
 
 
+
 Why It Matters (Especially for Us)
+-----------------------------------------
 “In a credit lending environment, we deal with sensitive data, regulatory requirements, and high expectations for accelerated product launches.”
 
 “IaC gives us consistency—no more ‘it works on one environment but not another.’”
@@ -59,7 +64,9 @@ Why It Matters (Especially for Us)
 
 
 
+
 What is Terraform?
+--------------------------------------------
 “Terraform is one of the most widely used IaC tools.”
 
 "It is cloud Agnostic, meaning you can build Azure, AwS, Google Cloud and many number of cloud platforms.
@@ -67,7 +74,10 @@ What is Terraform?
 “It’s declarative, meaning we define what we want—not how to do it.”
 
 
+
+
 Why Terraform Matters?
+---------------------------------------------
 “Terraform allows us to standardize infrastructure across environments—dev, test, production.”
 
 “Instead of building environments manually, we reuse the same code.”
@@ -75,7 +85,11 @@ Why Terraform Matters?
 “That means fewer surprises when we promote changes.”
 
 
+
+
+
 Stay DRY with Infrastructure as Code
+------------------------------------------------
 
 The DRY (Don't Repeat Yourself) principle is essential in DevOps because it reduces duplication across code.
 
@@ -84,7 +98,11 @@ By reusing modules, templates and  pipelines, we can improve consistency and spe
 DRY also makes systems easier to maintain, since updates only need to be made in one place instead of many.
 
 
+
+
+
 Where Azure DevOps Fits In
+----------------------------------------------
 
 “Terraform defines the infrastructure—but Azure DevOps executes it.”
 
@@ -94,7 +112,9 @@ Where Azure DevOps Fits In
 
 
 
+
 Why Leadership Should Care
+----------------------------------------------
 
 “From a business perspective, it means faster launches”
 
@@ -104,9 +124,21 @@ Why Leadership Should Care
 
 
 
+Where we leveraged this technology
+---------------------------------------------
+Easy home replatforming
+Easyapply
+Sasviya 4 (vendor supplied code)
+Lendcare Frontline
+
+
+
+Easyapply Architecture
+------------------------------------------
 
 
 Demo
+---------------------------------
 
 From Code to Cloud in Minutes
 Demo Idea:
@@ -123,7 +155,9 @@ Speaker Notes:
 
 
 
-Closing
+
+Closing 
+--------------------------------------
 From Manual Effort to Engineered Confidence
 
 “Infrastructure as Code isn’t just a technical shift—it’s a mindset shift.”
