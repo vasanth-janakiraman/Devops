@@ -79,21 +79,7 @@ Why Terraform Matters?
 
 “Instead of building environments manually, we reuse the same code.”
 
-“That means fewer surprises when we promote changes.”
-
-
-
-
-
-Stay DRY with Infrastructure as Code
-------------------------------------------------
-
-The DRY (Don't Repeat Yourself) principle is essential in DevOps because it reduces duplication across code.
-
-By reusing modules, templates and  pipelines, we can improve consistency and speed up development.
-
-DRY also makes systems easier to maintain, since updates only need to be made in one place instead of many.
-
+“It allows to modularize the code - meaning it is easier to manage”
 
 
 
