@@ -68,7 +68,7 @@ What is Terraform?
 
 "It is cloud Agnostic, meaning you can build Azure, AwS, Google Cloud and many number of cloud platforms.
 
-“It’s declarative, meaning we define what we want—not how to do it.”
+“We can deploy n number of environments by just tweaking the config file.”
 
 
 
