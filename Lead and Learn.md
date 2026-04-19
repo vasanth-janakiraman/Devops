@@ -55,7 +55,7 @@ Why It Matters (Especially for Us)
 
 “IaC gives us consistency—no more ‘it works on one environment but not another.’”
 
-“It gives us auditability—every change is tracked.”
+“It gives us accelerated deployments- meaning shorter time to production.”
 
 “And most importantly—it reduces risk. Fewer manual steps means fewer human errors.”
 
