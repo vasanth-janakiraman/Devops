@@ -175,16 +175,3 @@ I will now open the floor to some questions
 
 
 
-
-What if we had to rebuild everything tomorrow?
-
-“Let me start with a quick scenario. Imagine it’s 9 AM tomorrow, and we lose a critical environment—applications, databases, networking, everything.
-How long would it take us to rebuild it… exactly the same… with confidence?”
-
-(Pause. Look around.)
-
-“Days? Weeks? And more importantly—would we trust the result?”
-
-“Now imagine instead… we press a button, and within an hour, everything is rebuilt—consistent, compliant, and fully documented.”
-
-“That’s the promise of Infrastructure as Code.”
