@@ -28,11 +28,8 @@ Imagine that same environment built with Infrastructure as Code using Terraform.
 Instead of clicking through portals, the entire Azure platform is defined in code. Networks, virtual machines, databases, access controls, security policies, auto-scaling rules — all written, versioned, and ready to deploy.
 
 Engineers store that code in Git.
-
 They test changes safely in staging.
-
 They review updates through pull requests.
-
 And when everything is approved, they deploy production-ready infrastructure through a single automated pipeline.
 
 Boom, the infrastructure is ready in hours
