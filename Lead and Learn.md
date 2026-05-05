@@ -62,7 +62,7 @@ IaC in Plain English
 Why It Matters (Especially for Us)
 -----------------------------------------
 
-“IaC gives us consistency—no more ‘all the environments look alike.’”
+“IaC gives us consistency— ‘all three environments look alike, behave alike and perform alike.’”
 
 “It gives us accelerated deployments- meaning shorter time to production.”
 
