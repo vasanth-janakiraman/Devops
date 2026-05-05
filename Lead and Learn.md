@@ -69,45 +69,8 @@ Why It Matters (Especially for Us)
 “And most importantly—it reduces risk. Fewer manual steps means fewer human errors.”
 
 
-
-
-What is Terraform?
---------------------------------------------
-“Terraform is one of the most widely used IaC tools.”
-
-"It is cloud Agnostic, meaning you can build Azure, AwS, Google Cloud and many number of cloud platforms.
-
-“We can deploy n number of environments by just tweaking the config file.”
-
-
-
-
-Why Terraform Matters?
----------------------------------------------
-“Terraform allows us to standardize infrastructure across environments—dev, test, production.”
-
-“Instead of building environments manually, we reuse the same code.”
-
-“It allows to modularize the code - meaning it is easier to manage”
-
-
-
-
-Where Azure DevOps Fits In
-----------------------------------------------
-
-“Terraform defines the infrastructure—but Azure DevOps executes it.”
-
-“It allows us to automate deployments using pipelines.”
-
-“So instead of someone manually applying Terraform, it happens automatically when code is approved.”
-
-
-
-
 Why Leadership Should Care
 ----------------------------------------------
-
 
 
 “From a business perspective, it means faster launches”
@@ -117,7 +80,6 @@ Why Leadership Should Care
 “It means innovation without delay.”
 
 "And It is Open-Source" Who doesn't like free stuff
-
 
 
 Where we leveraged this technology At goeasy
